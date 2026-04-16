@@ -168,6 +168,10 @@ p {
         text-align: left;
     }
 
+    .social {
+        align-self: flex-start;
+    }
+    
     .text {
         flex: 1;
     }
@@ -180,7 +184,7 @@ p {
     .time-wrapper .time {
         font-size: 14px;
     }
-    
+
     .time-wrapper .date {
         font-size: 14px;
         color: #666;
