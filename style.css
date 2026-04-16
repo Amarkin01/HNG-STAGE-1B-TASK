@@ -104,7 +104,9 @@ p {
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 2px;
+    gap: 12px;
+    row-gap: 15px;
+    justify-content: left;
 }
 
 .social a {
@@ -181,6 +183,7 @@ p {
     .time-wrapper .time {
         font-size: 14px;
     }
+
 
 
     .time-wrapper .date {
