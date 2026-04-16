@@ -168,10 +168,11 @@ p {
         text-align: left;
     }
 
-    .social {
+    .social ul {
         align-self: flex-start;
+        flex-wrap: nowrap;
     }
-    
+
     .text {
         flex: 1;
     }
