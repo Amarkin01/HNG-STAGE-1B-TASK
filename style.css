@@ -106,7 +106,7 @@ p {
     flex-wrap: wrap;
     gap: 12px;
     row-gap: 15px;
-    justify-content: left;
+    justify-content: center;
 }
 
 .social a {
