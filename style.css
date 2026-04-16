@@ -101,7 +101,7 @@ p {
 .social ul {
     list-style: none;
     padding: 0;
-    margin: 100px;
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     gap: 2px;
@@ -182,14 +182,6 @@ p {
         font-size: 14px;
     }
 
-    .social ul {
-        list-style: none;
-        padding: 0;
-        margin: 12px;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 12px;
-    }
 
     .time-wrapper .date {
         font-size: 14px;
